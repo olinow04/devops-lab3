@@ -1,1 +1,2 @@
-To jest moja wersja zdania.
+To jest ostateczna wersja po konflikcie.
+
